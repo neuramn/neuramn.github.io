@@ -128,7 +128,7 @@ $(document).ready(function(){
 	setTimeout( function(){
 		if($("#site-type").length) {
         $(".typewrite span").typed({
-            strings: ["How to","Where at","Which of","What for","WHY NOT?","YNOT"],
+            strings: ["Tsolmon","Nani","Amaraa","Neuramn","WHY NOT?","GO GO GO"],
             typeSpeed: 50,
             backDelay: 500,
             loop: false,
