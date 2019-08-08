@@ -1007,7 +1007,7 @@ li.home-item{
 .clear .images {
   /*float: right; */
   display: block;
-  margin-left: auto;
+  margin-left: -150px;
   margin-right: auto;
   width: 50%;
 }
