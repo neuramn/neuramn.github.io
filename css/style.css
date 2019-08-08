@@ -1005,9 +1005,8 @@ li.home-item{
 }*/
 
 .clear .images {
-  float: right;
+  /*float: right; */
   display: block;
-  align-items: center;
   margin-left: auto;
   margin-right: auto;
 }
